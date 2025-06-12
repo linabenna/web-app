@@ -30,7 +30,7 @@ my-mobile-app/
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
 
-Restart your terminal, then run:
+Restart your terminal using below:
 
 ```bash
 export NVM_DIR="$HOME/.nvm"
