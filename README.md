@@ -58,8 +58,7 @@ Copy the index.html file into mobile/wwww:
 cp my-mobile-app/front/index.html ./www/
 ```
 
-Install the required packages:
-I am also using an older version of capacitor.
+Install the required packages (I am also using an older version of capacitor here):
 
 ```bash
 npm install
